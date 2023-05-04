@@ -1,3 +1,8 @@
+## Task  
+create an application that an employee can use to generate a random password based on criteria they've selected  
+for example how many char, include uppercase? , include lowerCase?, include numbers, and then the web application will output  
+a random password  
+
 ## User Story
 
 ```
@@ -24,3 +29,6 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
+
+![homework03 img](https://user-images.githubusercontent.com/123424361/236118944-10a7ed71-ccbc-4291-8c36-cc326d251ad3.png)
+
