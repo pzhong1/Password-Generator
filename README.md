@@ -2,7 +2,7 @@
 
 
 create an application that an employee can use to generate a random password based on criteria they've selected  
-for example how many char, include uppercase? , include lowerCase?, include numbers, and then the web application will output  
+for example how many char?, include uppercase? , include lowerCase?, include numbers?, and then the web application will output  
 a random password  
 
 
