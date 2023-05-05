@@ -35,4 +35,6 @@ THEN the password is either displayed in an alert or written to the page
 
 https://github.com/pzhong1/challenge03.git  
 
+https://pzhong1.github.io/challenge03/  
+
 ![homework03 img](https://user-images.githubusercontent.com/123424361/236119566-23032a5d-03dd-4b51-a970-6bb979f80ffc.png)
